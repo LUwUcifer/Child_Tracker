@@ -1,7 +1,7 @@
 # SafeTrack – Child Location & Safe Zone Monitoring App
 Overview
 SafeTrack is a mobile application designed to provide parents with real-time location tracking of their children and monitor whether they have left predefined safe zones. The app integrates Mapbox for map visualization and geofencing, built using Flutter for cross-platform compatibility.
-![Poster](https://raw.githubusercontent.com/LUwUcifer/child_tracker/master/poster.png)
+![Poster](https://github.com/LUwUcifer/Child_Tracker/blob/main/poster.png)
 
 # Features
 Real-Time Location Tracking: View your child's current location on an interactive map.
@@ -28,7 +28,7 @@ School: 250m radius
 
 Park: 200m radius
 
-![Interface](https://raw.githubusercontent.com/LUwUcifer/child_tracker/master/poster2.png)
+![Interface](https://github.com/LUwUcifer/Child_Tracker/blob/main/poster2.png)
 
 # Technology Stack
 Flutter: Frontend development
@@ -37,7 +37,7 @@ Mapbox API: Maps, directions, and geofencing
 
 Firebase: Planned for backend services (see Future Plans)
 
-![Flowchart](https://raw.githubusercontent.com/LUwUcifer/child_tracker/master/poster3.png)
+![Flowchart](https://github.com/LUwUcifer/Child_Tracker/blob/main/poster3.png)
 
 # Future Plans
 Firebase Integration for Centralized Login System
