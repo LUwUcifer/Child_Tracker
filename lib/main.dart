@@ -42,7 +42,7 @@ class SafeTrackApp extends StatelessWidget {
           scaffoldBackgroundColor: AppColors.background,
           primaryColor: AppColors.primary,
           textTheme: GoogleFonts.interTextTheme(ThemeData.dark().textTheme),
-          colorScheme: const ColorScheme.dark(
+          colorScheme: ColorScheme.dark(
             primary: AppColors.primary,
             secondary: AppColors.secondary,
             surface: AppColors.surface,
